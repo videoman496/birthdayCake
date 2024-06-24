@@ -1,4 +1,4 @@
-#Birthday Cake App
+# Birthday Cake App
 **Birthday Cake App** is something I wanted to try for a long time. Just a cute little gift for someone you care.
 
 # Built on:
